@@ -1,3 +1,14 @@
+Simple React based SPA boilerplate for quick PoC kick off.
+
+Contains:
+
+- Create React App
+- MobX for state management
+- MUI for UI components
+- Axios for HTTP requests
+- React Table for tables
+- Lodash for utility functions
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
